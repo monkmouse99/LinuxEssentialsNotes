@@ -3,11 +3,9 @@
 Ipsum
 
 ### Linux Essentials Domains
-[Section 1 - Evolution of Linux](Section01_EvolutionOfLinux.md) </br>
-[Section 2 - Major Open Source Applications](Section02_MajorApps.md) </br>
-[Section 3 - Open Source Software and Licensing](Section03_OpenSourceLinux.md) </br>
-[Section 4 - The Linux Operating System](Section04_LinuxOS.md) </br>
-[Section 5 - ICT Skills and Working in Linux](Section05_ICTSkillsInLinux.md) </br>
+[Section 1 - Archiving Files on the Command Line](Section01_ArchivingFiles.md) </br>
+[Section 2 - Searching and Extracting Data from Files](Section02_SearchingExtractingData.md) </br>
+[Section 3 - Turning Commands into a Script](Section03_Scripting.md) </br>
 
 
 ### On-Line Learning Resources
