@@ -9,11 +9,11 @@ Let's begin the journey with a destination in mind which is passing the Linux Es
 [Linux Essentials Test Objectives ](https://www.lpi.org/our-certifications/exam-010-objectives)
 
 ### Linux Essentials Domains
-[Domain 1 - Welcome to Linux](Domain01/01_Overview.md) </br>
-[Domain 2 - Finding Your Way Around](../Domain02/01_Overview.md) </br>
-[Domain 3 - The Command-Line](../Domain03/01_Overview.md) </br>
-[Domain 4 - The Linux Operating System](../Domain04/01_Overview.md) </br>
-[Domain 5 - Security and File Permissions](../Domain05/01_Overview.md) </br>
+[Domain 1 - Welcome to Linux](Domain01/Domain01_Overview.md) </br>
+[Domain 2 - Finding Your Way Around](Domain02/Domain02_Overview.md) </br>
+[Domain 3 - The Command-Line](Domain03/Domain03_Overview.md) </br>
+[Domain 4 - The Linux Operating System](Domain04/Domain04_Overview.md) </br>
+[Domain 5 - Security and File Permissions](Domain05/Domain05_Overview.md) </br>
 
 
 ### On-Line Learning Resources
