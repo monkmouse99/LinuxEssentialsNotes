@@ -3,11 +3,10 @@
 Ipsum
 
 ### Linux Essentials Domains
-[Section 1 - Evolution of Linux](Section01_EvolutionOfLinux.md) </br>
-[Section 2 - Major Open Source Applications](Section02_MajorApps.md) </br>
-[Section 3 - Open Source Software and Licensing](Section03_OpenSourceLinux.md) </br>
-[Section 4 - The Linux Operating System](Section04_LinuxOS.md) </br>
-[Section 5 - ICT Skills and Working in Linux](Section05_ICTSkillsInLinux.md) </br>
+[Section 1 - Choosing an Operating System](Section01_ChooseOS.md) </br>
+[Section 2 - Understanding Computer Hardware](Section02_UnderstandingHardware.md) </br>
+[Section 3 - Where Data is Stored](Section03_DataLocations.md) </br>
+[Section 4 - Your Computer on the Network](Section04_Networking.md) </br>
 
 
 ### On-Line Learning Resources
